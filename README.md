@@ -2,7 +2,7 @@
 
 * Cadastro de usuario
     telas de login e singup com jwt
-    <img src="/img/Login.png">
+    <img src="https://github.com/Kaio-levi/readmedoralf/blob/main/img/Catalogo.png">
 
 * mostrar catalogo
 
